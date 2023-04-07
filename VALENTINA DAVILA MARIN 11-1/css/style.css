@@ -1,0 +1,164 @@
+/* COLORES PALETA */
+
+*{
+    font-family: Helvetica, sans-serif;
+    
+}
+
+body{
+    background-color: #35403A;
+    color: aliceblue;
+}
+
+ul li a{
+    font-size: 24px;
+}
+
+.text-navbar{
+    font-size: 30px;
+    
+}
+
+.link-fichas{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.container-ficha{
+    border: 5px solid #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+.container-ficha:hover{
+    transform: scale(1.04);
+    transition: 0.3s ease;
+}
+
+.card-ficha{
+    border: 1px solid #fff;
+}
+
+.card-ficha:hover{
+    transform: scale(1.1);
+    transition: 0.2s ease;
+}
+
+.navbar-sombra{
+    box-shadow: 2px 2px 5px 0px #232625;
+
+}
+
+ul li a:hover{
+    transform: scale(1.08);
+    transition: 0.2s ease;
+}
+
+
+
+
+
+
+
+.bg-color1{
+    background-color: #232625;
+    color: #fff;
+}
+
+.bg-color2{
+    background-color: #35403A;
+    color: #fff;
+}
+
+.bg-color3{
+    background-color: #4C594F;
+    color: #fff;
+}
+
+
+
+
+
+
+
+.bg-color4{
+    background-color: #A4A69C;
+    color: #fff;
+}
+
+.bg-color5{
+    background-color: #BFBFB8;
+    color: #fff;
+}
+
+.navbar-color{
+     background-color: rgb(43, 87, 87);
+}
+
+
+.texto-referencia{
+    font-size: 52px;
+    box-shadow: 2px 2px 50px 0px #ccc;
+    text-transform: uppercase;
+}
+
+
+
+.texto-card{
+    font-size: 18px;
+    text-align: justify;
+}
+
+.titulo-card{
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card-libro:hover{
+    transform: scale(1.01);
+    transition: 0.2s ease;
+}
+
+
+.logo-hover:hover{
+    transform: scale(1.1);
+    transition: 0.2s ease;
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    font-size: 18px;
+}
+
